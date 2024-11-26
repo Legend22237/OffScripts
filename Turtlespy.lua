@@ -1,9 +1,5 @@
 -- TurtleSpy V1.5.2, credits to Intrer#0421
--- modified by zzerexx#3970
-
--- uses hookmetamethod
--- uses aliases to support more exploits
--- code font instead of sourcesans (wtf?)
+-- modified by legend_273 on discord
 
 local getidentity = getidentity or getthreadidentity or get_thread_identity or getthreadcontext or get_thread_context or (syn and syn.get_thread_identity)
 local setidentity = setidentity or setthreadidentity or set_thread_identity or setthreadcontext or set_thread_context or (syn and syn.set_thread_identity)
